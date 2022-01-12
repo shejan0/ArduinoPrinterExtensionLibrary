@@ -1,0 +1,5 @@
+PrinterExtensionShejan KEYWORD1
+printLog KEYWORD2
+printError KEYWORD2
+printLogTime KEYWORD2
+printErrorTime KEYWORD2
